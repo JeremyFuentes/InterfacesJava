@@ -15,6 +15,7 @@ Animal\Perro.class
 Services\IInterfazPago.class
 Comparacion\Producto.class
 Services\IInterfazAlimentacion.class
+Animal\MainAnimal.class
 Services\IInterfazNotificable.class
 Services\IInterfazOrdenable.class
 Descontable\DescuentoFijo.class
