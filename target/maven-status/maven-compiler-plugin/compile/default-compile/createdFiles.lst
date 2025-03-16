@@ -19,6 +19,7 @@ Animal\MainAnimal.class
 Services\IInterfazNotificable.class
 Services\IInterfazOrdenable.class
 Descontable\DescuentoFijo.class
+Comparacion\MainComparacion.class
 Alimentacion\Persona.class
 Vehiculo\Bicicleta.class
 Alimentacion\Animal.class
