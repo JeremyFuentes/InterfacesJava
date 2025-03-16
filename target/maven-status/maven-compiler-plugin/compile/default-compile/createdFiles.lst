@@ -34,5 +34,6 @@ Services\IInterfazTrabajador.class
 Pago\MainPago.class
 Notificable\CorreoElectronico.class
 Ordenable\ListaNumeros.class
+Vehiculo\MainVehiculo.class
 Services\IInterfazDescontable.class
 Services\IInterfazVehiculo.class
