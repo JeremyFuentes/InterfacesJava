@@ -1,6 +1,7 @@
 Services\IInterfazFigGeo.class
 Trabajador\Desarrollador.class
 Descontable\MainDescuento.class
+Ordenable\MainOrdenacion.class
 FiguraGeometrica\Circulo.class
 FiguraGeometrica\Rectangulo.class
 Services\IInterfazComObjeto.class
