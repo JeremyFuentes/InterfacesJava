@@ -6,6 +6,7 @@ FiguraGeometrica\Rectangulo.class
 Services\IInterfazComObjeto.class
 Vehiculo\Coche.class
 Pago\PagoConEfectivo.class
+Notificable\MainNotificaciones.class
 Notificable\SMS.class
 Trabajador\Diseñador.class
 Alimentacion\MainAlimentacion.class

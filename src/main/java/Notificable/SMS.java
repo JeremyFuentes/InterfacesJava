@@ -8,5 +8,4 @@ public class SMS implements IInterfazNotificable {
     public String enviarNotificacion(String Object) {
         return "Mensaje de texto enviado\nDestinatario: (503)9999-9999\nMensaje: Este es tu nuevo numero de telefono??";
     }
-    
 }
