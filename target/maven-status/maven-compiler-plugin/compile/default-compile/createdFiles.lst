@@ -16,6 +16,7 @@ Services\IInterfazPago.class
 Comparacion\Producto.class
 Services\IInterfazAlimentacion.class
 Animal\MainAnimal.class
+FiguraGeometrica\MainFiguraGeometrica.class
 Services\IInterfazNotificable.class
 Services\IInterfazOrdenable.class
 Descontable\DescuentoFijo.class
