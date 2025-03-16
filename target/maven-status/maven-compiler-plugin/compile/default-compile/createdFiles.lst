@@ -8,6 +8,7 @@ Vehiculo\Coche.class
 Pago\PagoConEfectivo.class
 Notificable\SMS.class
 Trabajador\Diseñador.class
+Alimentacion\MainAlimentacion.class
 Services\IInterfazAnimal.class
 Descontable\DescuentoPorcentaje.class
 Animal\Perro.class
