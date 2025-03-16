@@ -8,5 +8,5 @@ public class PagoConEfectivo implements IInterfazPago{
     public Object procesarPago(Double cantidad) {
         return "Se a realizado el pago en efectivo, recibido: $" + cantidad;
     }
-    
+   
 }

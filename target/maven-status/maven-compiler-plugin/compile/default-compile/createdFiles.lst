@@ -30,6 +30,7 @@ Animal\Gato.class
 com\mycompany\interfacesenjava\InterfacesEnJava.class
 Pago\PagoConTarjeta.class
 Services\IInterfazTrabajador.class
+Pago\MainPago.class
 Notificable\CorreoElectronico.class
 Ordenable\ListaNumeros.class
 Services\IInterfazDescontable.class
