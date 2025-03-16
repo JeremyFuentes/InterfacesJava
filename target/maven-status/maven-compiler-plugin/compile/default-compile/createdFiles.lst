@@ -13,6 +13,7 @@ Trabajador\Diseñador.class
 Alimentacion\MainAlimentacion.class
 Services\IInterfazAnimal.class
 Descontable\DescuentoPorcentaje.class
+Trabajador\MainTrabajador.class
 Animal\Perro.class
 Services\IInterfazPago.class
 Comparacion\Producto.class
